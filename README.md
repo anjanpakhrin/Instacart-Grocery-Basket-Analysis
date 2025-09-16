@@ -10,5 +10,5 @@ Perform an initial data and exploratory analysis of sales data in order to deriv
 * Dataset via [Kaggle](https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset)
 
 ## Tool
-* SQL (pgAdmin 4)
+* Python/Jupyter
 
