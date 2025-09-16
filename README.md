@@ -1,2 +1,2 @@
-# data-analytics-portfolio
+# data-analytics-portfolio-python
 A collection of Python projects showcasing skills in data cleaning, analysis, visualization, and insights generation. Designed as a portfolio to highlight practical data analytics techniques and real-world problem solving.
